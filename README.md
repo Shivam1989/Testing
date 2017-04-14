@@ -1,5 +1,4 @@
 <img src="Images/image.png"/>
-
 # HDMA Data Challenge
 
 >This challenge consist of analysis of Home Mortage Disclosure Act(HMDA) data set collected and published each year which consist of data of home loan applicatons received by lenders across the US
@@ -200,9 +199,7 @@ The module will provide a summary of the quality issues for the day and export r
 <img src="Images/image1.png"/>
 
 
->Explanation: We can see that Between 2012-2014 the number of loans including Delaware, Virginia, West Virginia and Maryland has significantly decreased including district of Columbia although the decline varies from state to state. Over the past 3 years the largest number of loans originated in Virginia followed by Maryland. The no of loans in Virginia is around 54 percent followed by 33 percent in Maryland.
-
-Result: We can see close to 89 percent of loans of home loans is concentrated in Virginia and Maryland, Since Change Financial planning to enter home loan market in District of Columbia where is loan is not much concentrated we need to dig further weather there is concentration of loans in counties and metropolitan within states to see if it is best to strictly focus on the top markets at this point.
+>Explanation: We can see that Between 2012-2014 the number of loans including Delaware, Virginia, West Virginia and Maryland has significantly decreased including district of Columbia although the decline varies from state to state. Over the past 3 years the largest number of loans originated in Virginia followed by Maryland. The no of loans in Virginia is around 54 percent followed by 33 percent in Maryland.We can see close to 89 percent of loans of home loans is concentrated in Virginia and Maryland, Since Change Financial planning to enter home loan market in District of Columbia where is loan is not much concentrated we need to dig further weather there is concentration of loans in counties and metropolitan within states to see if it is best to strictly focus on the top markets at this point.
 
 
 
@@ -218,9 +215,7 @@ Result: We can see close to 89 percent of loans of home loans is concentrated in
 <img src="Images/image5.png"/>
 
 
->Explanation: The above graph displays purpose of loans i.e. refinancing or purchasing. We can see that refinancing existing loan are relatively less risky as compared of purchasing loans
-
-Result: We can see their is significant no of loan is of refinancing and they are less risky and less in amount than purchasing loan
+>Explanation: The above graph displays purpose of loans i.e. refinancing or purchasing. We can see that refinancing existing loan are relatively less risky as compared of purchasing loansWe can see their is significant no of loan is of refinancing and they are less risky and less in amount than purchasing loan
 
 
 
@@ -233,8 +228,5 @@ Result: We can see their is significant no of loan is of refinancing and they ar
 <img src="Images/image6.png"/>
 
 
->Explanation: From above graph it is evident that the highest market share prefer to extend refinance loans than new loans for a purchase of a home supporting our decision to target refinance loans.
-
-
-Result: We can see from our analysis that existing lending institutions refinance loans in significantly high rates than new loans for purchase of a home. Yet, it it apparent that if we believe it is a good idea to emulate the lending patterns of institutions with the largest market share, then it means Change Financial would lend greatly more in refinance loans in the largest markets.
+>Explanation: From above graph it is evident that the highest market share prefer to extend refinance loans than new loans for a purchase of a home supporting our decision to target refinance loans. We can see from our analysis that existing lending institutions refinance loans in significantly high rates than new loans for purchase of a home. Yet, it it apparent that if we believe it is a good idea to emulate the lending patterns of institutions with the largest market share, then it means Change Financial would lend greatly more in refinance loans in the largest markets.
 
