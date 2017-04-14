@@ -1,9 +1,12 @@
 <img src="Images/image.png"/>
+
+
 ## HDMA Data Challenge
+
 
 >This challenge consist of analysis of Home Mortage Disclosure Act(HMDA) data set collected and published each year which consist of data of home loan applicatons received by lenders across the US
 
-## Problem Statement <img src="images/enron.png" align="right" />
+## Problem Statement 
 *Change Financial, a small regional bank wants to grow and enter home loan market.It wants to know if entering the loans market is strageic move , Being an information driven culture they first want to understand their region's home lending market*.
 
 
