@@ -1,5 +1,5 @@
 <img src="Images/image.png"/>
-# HDMA Data Challenge
+## HDMA Data Challenge
 
 >This challenge consist of analysis of Home Mortage Disclosure Act(HMDA) data set collected and published each year which consist of data of home loan applicatons received by lenders across the US
 
