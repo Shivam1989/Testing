@@ -1,4 +1,5 @@
 <img src="Images/image.png"/>
+
 # HDMA Data Challenge
 
 >This challenge consist of analysis of Home Mortage Disclosure Act(HMDA) data set collected and published each year which consist of data of home loan applicatons received by lenders across the US
@@ -207,14 +208,15 @@ Result: We can see close to 89 percent of loans of home loans is concentrated in
 ```
 <img src="Images/image2.png"/>
 
-**Understanding Conventional/Conforming market and which type is better? **
+** Understanding Conventional/Conforming market and which type is better? **
 
 
-**Result**
+** Result **
 
 <img src="Images/image3.png"/>
 <img src="Images/image4.png"/>
 <img src="Images/image5.png"/>
+
 ```
 Explanation: The above graph displays purpose of loans i.e. refinancing or purchasing. We can see that refinancing existing loan are relatively less risky as compared of purchasing loans
 
@@ -222,11 +224,11 @@ Result: We can see their is significant no of loan is of refinancing and they ar
 ```
 
 
-**Key institutions in market and their on analysis on loan market types?**
+** Key institutions in market and their on analysis on loan market types? **
 
 
 
-**Result**
+** Result **
 
 <img src="Images/image6.png"/>
 
@@ -237,5 +239,5 @@ Explanation: From above graph it is evident that the highest market share prefer
 Result: We can see from our analysis that existing lending institutions refinance loans in significantly high rates than new loans for purchase of a home. Yet, it it apparent that if we believe it is a good idea to emulate the lending patterns of institutions with the largest market share, then it means Change Financial would lend greatly more in refinance loans in the largest markets.
 
 
-​
+
 ```
