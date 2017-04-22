@@ -1,4 +1,4 @@
-<img src="images/dataanalysis.jpg"/>
+<img src="images/top.jpg"/>
 # Final Exam - Spring 2017
 
 >This Assignment consist of analysis on following dataset
@@ -214,7 +214,7 @@ not proper analysis results.
 
 **Result**
 
-<img src ="images/kenlay.png"/>
+<img src ="images/Flights_Fig8.png"/>
 
 ```
 Here my goal is to analyse the delay data which consist of Airline Delay, Late Arrival Delay Weather Delay.I am focussing here on delay caused due to weather.I am plotting  map plots all delays. You can see that the metropolitan areas have a wide range of delays, whereas the small airport all over the country seem to have very few delays, likely because the amounts of departures are far less,look at the density distribution, most weather delays happen in the north east area of the USA (probably because freezing weather), around Chicago (winds and cold) but also in the area of LA and Southern California.
@@ -227,7 +227,6 @@ I have used Basemap package to analyse delay few library needed to install Basem
 - sudo pip install basemap
 
 ```
-<img src ="images/wordcloud.png"/>
 
 **2.Which airlines is the best?**
 
@@ -253,18 +252,18 @@ So we can have list of factors and depending on outcome of factor we can determi
 
 **Result**
 
-<img src ="images/analysis2.png"/>
+<img src ="images/Flights_Fig2.png"/>
 ```
 The above plot indicates ratio of Operted flights for each airlines in increasing order it is obtained by dividing Operated flights by Scheduled flights.We can see that we have similar ratio across different airlines i have taken mean of values since it is easier to compare values across different factors
 ```
 
-<img src ="images/analysis2.png"/>
+<img src ="images/Flights_Fig3.png"/>
 
 ```
 The above plot shows the comparison of flight speed across different airlines we can clearly conclude that almost all the flights of any airline run at the speed of 350-450 miles/hour.
 ```
 
-<img src ="images/analysis2graph.png"/>
+<img src ="images/Flights_Fig4.png"/>
 
 ```
 The above plot shows the result of flight arrival delays and departure delays across different airlines we can clearly conclude that almost all the airlines have arrival delays greater than departure delays, which is logical as the departure delays are mostly due to late arrival, security reasons etc.
@@ -273,14 +272,14 @@ One important thing to note is that Alaska Airlines has a negative arrival delay
 
 ```
 
-<img src ="images/analysis2graph.png"/>
+<img src ="images/Flights_Fig5.png"/>
 
 ```
 The above plot shows the result of volume of flight of each airlines.The volume is important factor in determining the rank of flight as flight volume depicts the efficiency and demand in market it is certainly an important factor in determing the overall rank of flight.
 
 ```
 
-<img src ="images/analysis2graph.png"/>
+<img src ="images/Flights_Fig6.png"/>
 
 ```
 The above plot shows the result of taxi in and out time of flight of each airlines.
@@ -290,7 +289,7 @@ TAXI_IN time - The time duration elapsed between wheels-on and gate arrival at t
 
 ```
 
-<img src ="images/analysis2graph.png"/>
+<img src ="images/Flights_Fig7.png"/>
 
 ```
 The above plot shows the result of final score of  of each airlines.We have 5 variables which decide a score.We have consider the linkage among each variable as ratio of scheduled flights,volume,speed,taxi in and out time.we consider the ratio of other factors over elapsed time.
@@ -310,14 +309,14 @@ The above plot shows the result of final score of  of each airlines.We have 5 va
 
 **Result**
 
-<img src ="images/analysis3.png"/>
+<img src ="images/Flights_Fig9.png"/>
 
 ```
 
 The above graph show analysis on  trends in flight cancellation by day we can see that we have a lot of cancelled flights on thursday.Similarly we can show trend in flight cancellation by week and month but by day gives a more clear picture which day has more cancellation.
 
 ```
-<img src ="images/analysis3.png"/>
+<img src ="images/Flights_Fig1.png"/>
 
 ```
 
@@ -345,7 +344,7 @@ D- Security
 
 **Result**
 
-<img src ="images/analysis3.png"/>
+<img src ="images/busyday.png"/>
 
 ```
 
