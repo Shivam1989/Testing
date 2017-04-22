@@ -11,7 +11,7 @@
 
 - The flight data-set is available at [Flight  Prediction data 400 MB files](https://www.kaggle.com/usdot/flight-delays) .
 
-##Context
+## Context
 
 *The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics tracks the on-time performance of domestic flights operated by large air carriers. Summary information on the number of on-time, delayed, canceled, and diverted flights is published in DOT's monthly Air Travel Consumer Report and in this dataset of flight delays and cancellations*
 
@@ -382,23 +382,27 @@ So we can have list of factors and depending on outcome of factor we can determi
 
 **Result**
 
-<img src ="images/analysis2.png"/>
+<img src ="images/Flights_Fig10.png"/>
+
 ```
 The above plot indicates ratio of Operted flights for each airport,it is obtained by dividing Operated flights by Scheduled flights.We can see that we have similar ratio across different airport
 
-<img src ="images/analysis2.png"/>
+<img src ="images/Flights_Fig11.png"/>
+
 
 ```
 The above plot shows number  of flight delay across different airport due departure delays. I am considering only the delays in departure as departure delays happening due to airports and arrival delays due to airline
 
-<img src ="images/analysis2graph.png"/>
+<img src ="images/Flights_Fig12.png"/>
+
 
 ```
 The above plot shows the result of Air traffic i:e the number of flights in air heading for a particular airport
 
 ```
 
-<img src ="images/analysis2graph.png"/>
+<img src ="images/Flights_Fig13.png"/>
+
 
 ```
 The above plot shows the result of Traffic in and out time of flight of each airlines.
@@ -408,20 +412,11 @@ TAXI_IN time - The time duration elapsed between wheels-on and gate arrival at t
 
 ```
 
-<img src ="images/analysis2graph.png"/>
+<img src ="images/Flights_Fig15.png"/>
+
 
 ```
 The above plot shows the result of final score of each airport.We have 4 variables which decide a score.We have consider the linkage among each variable as ratio of scheduled flights,light delays,Air traffic,taxi in and out time.we consider the ratio of other factors over elapsed time.
 
 ```
 
-
-I created a csv file to store Users and recommendations they have got,we found some beautiful analysis on this like:
-
-- Most of the users are in rage of 1-1000 recommendations.
-_ Only 1 user has more than 2000 recommendations
-_ It give insights about who is most frequent user of site and which is most frequent visitor
-- I have created a graph using plotly to visualize the result
-```
-
-<img src ="images/nyanalysis4.png"/>
