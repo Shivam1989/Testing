@@ -1,6 +1,6 @@
-<img src="images/top1.jpg"/><img src="images/download.png" align="right" />
+<img src="images/top1.jpg"/>
 
-## Final Exam - Spring 2017 
+## Final Exam - Spring 2017<img src="images/download.png" align="right" />
 
 >This Assignment consist of analysis on following dataset
 - Flight Delay Dataset.
