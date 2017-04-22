@@ -5,7 +5,7 @@
 - Flight Delay Dataset.
 
    
-## Flight Data Set <img src="images/enron.png" align="right" />
+## Flight Data Set <img src="images/flighticon.png" align="right" />
 
 
 - The flight data-set is available at [Flight  Prediction data 400 MB files](https://www.kaggle.com/usdot/flight-delays) .
