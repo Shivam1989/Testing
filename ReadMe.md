@@ -386,13 +386,13 @@ So we can have list of factors and depending on outcome of factor we can determi
 
 ```
 The above plot indicates ratio of Operted flights for each airport,it is obtained by dividing Operated flights by Scheduled flights.We can see that we have similar ratio across different airport
-
+```
 <img src ="images/Flights_Fig11.png"/>
 
 
 ```
 The above plot shows number  of flight delay across different airport due departure delays. I am considering only the delays in departure as departure delays happening due to airports and arrival delays due to airline
-
+```
 <img src ="images/Flights_Fig12.png"/>
 
 
